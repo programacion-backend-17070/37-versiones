@@ -1,0 +1,39 @@
+Arguments: 
+  /Users/lalovelazquez/.nvm/versions/node/v18.1.0/bin/node /Users/lalovelazquez/projects/coderhouse/source/37-versiones/yarn/.yarn/releases/yarn-1.22.19.cjs add ex�press
+
+PATH: 
+  /Users/lalovelazquez/.nvm/versions/node/v18.1.0/bin:/Users/lalovelazquez/Library/pnpm:/usr/local/bin:/Users/lalovelazquez/.nvm/versions/node/v15.14.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/opt/homebrew/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.1.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  TypeError [ERR_UNESCAPED_CHARACTERS]: https://registry.yarnpkg.com/ex�press: Request path contains unescaped characters
+      at new NodeError (node:internal/errors:377:5)
+      at new ClientRequest (node:_http_client:160:13)
+      at Object.request (node:https:352:10)
+      at module.exports.Request.start (/Users/lalovelazquez/projects/coderhouse/source/37-versiones/yarn/.yarn/releases/yarn-1.22.19.cjs:135859:32)
+      at module.exports.Request.end (/Users/lalovelazquez/projects/coderhouse/source/37-versiones/yarn/.yarn/releases/yarn-1.22.19.cjs:136618:10)
+      at end (/Users/lalovelazquez/projects/coderhouse/source/37-versiones/yarn/.yarn/releases/yarn-1.22.19.cjs:135672:14)
+      at Immediate.<anonymous> (/Users/lalovelazquez/projects/coderhouse/source/37-versiones/yarn/.yarn/releases/yarn-1.22.19.cjs:135686:7)
+      at process.processImmediate (node:internal/timers:471:21)
+
+npm manifest: 
+  {
+    "name": "yarn",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
