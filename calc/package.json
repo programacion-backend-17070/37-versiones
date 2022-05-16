@@ -1,0 +1,22 @@
+{
+  "name": "coder17070",
+  "version": "0.1.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programacion-backend-17070/37-versiones.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Eduardo Velazquez <lalo0892@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programacion-backend-17070/37-versiones/issues"
+  },
+  "homepage": "https://github.com/programacion-backend-17070/37-versiones#readme"
+}

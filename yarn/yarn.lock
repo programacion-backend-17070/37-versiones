@@ -187,6 +187,11 @@ clone-response@^1.0.2:
   dependencies:
     mimic-response "^1.0.0"
 
+coder17070@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/coder17070/-/coder17070-0.1.0.tgz#49ebb2c3a96ed799c02d43c54c98d56e0fc26f03"
+  integrity sha512-U2eg8gAyKhSLUXqXy12BSejL0tUIyT6LTt2a/eRY2NAwUAiQL8KhMLWDwDCOPIjo27gseq65NE3BitVS9wFaJA==
+
 color-convert@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-2.0.1.tgz#72d3a68d598c9bdb3af2ad1e84f21d896abd4de3"
