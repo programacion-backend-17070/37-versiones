@@ -1,0 +1,12 @@
+{
+  "name": "coder17070",
+  "version": "0.2.0",
+  "description": "Calculadora para la comision de coderhouse 17070",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Velazquez <lalo0892@gmail.com>",
+  "license": "ISC"
+}
